@@ -5,4 +5,4 @@
 3. Run this CMD file as adminstrator.
 6. Sucessfully activated
 
-## Leave s Star follow my github acc and Fork share and Support
+## Leave a Star follow my github acc and Fork share and Support
